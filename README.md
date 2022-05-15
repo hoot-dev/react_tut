@@ -1,3 +1,10 @@
+# From Dave Gray React JS Full Course
+
+[YouTube](https://www.youtube.com/watch?v=RVFAyFWO4go&list=PL0d3gbLbAaEO2NjNqNpvSJcw8jeV9_V21&index=8)
+
+[GitHub](https://github.com/gitdagray/react_resources)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
